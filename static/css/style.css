@@ -1,0 +1,27 @@
+.img{
+    max-width:100%;
+    max-height:100%;
+}
+
+.container-fluid{
+    background-color:wheat;
+}
+
+.header{
+    padding:100px;
+    background-color:sandybrown;
+    text-align:center;
+
+}
+
+.fact_table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table {
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
